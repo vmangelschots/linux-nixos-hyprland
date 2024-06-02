@@ -1,5 +1,5 @@
 { ... }:
 
 {
-  zramSwap.enable = true;
+  zramSwap.enable = false;
 }

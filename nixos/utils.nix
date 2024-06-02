@@ -8,6 +8,12 @@
     dioxus-cli
     surrealdb
     surrealdb-migrations
-    surrealist
+    #surrealist
+    google-chrome
+    vim
+    kitty
+    sqlite
+    vscode
+    bambu-studio
   ];
 }

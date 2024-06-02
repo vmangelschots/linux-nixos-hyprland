@@ -10,7 +10,7 @@
   #   enable = true;
   #   setSocketVariable = true;
   # };
-  # users.extraGroups.docker.members = [ "xnm" ];
+  # users.extraGroups.docker.members = [ "vincent" ];
 
   # Enable Podman
   virtualisation = {

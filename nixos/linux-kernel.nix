@@ -12,7 +12,6 @@
     "usbcore.autosuspend=-1"
     "video4linux"
     "acpi_rev_override=5"
-    "security=selinux"
   ];
   # boot.kernelPatches = [ {
   #      name = "selinux-config";
